@@ -79,7 +79,9 @@ Another AES finalist designed by Bruce Schneier and colleagues.
 **Trivium stream cipher** from the eSTREAM project.
 Designed for extremely efficient hardware implementation.
 
-### xcha
+### xcha 
+
+** upgraded **
 
 **XChaCha20 stream cipher**.
 Extended-nonce version of ChaCha20 allowing very large nonce space.
