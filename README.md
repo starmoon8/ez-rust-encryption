@@ -115,7 +115,7 @@ Classic 64-bit block cipher with 128-bit keys using the unique Lai-Massey scheme
 
 
 
-
+# note- no new algos will be added for a while, the current algos will be worked on 
 
 
 
