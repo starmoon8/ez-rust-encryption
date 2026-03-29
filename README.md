@@ -107,7 +107,7 @@ Extended-nonce version of Salsa20 using a 192-bit nonce for safer random nonce u
 
 
 ### [rc6](rc6)
-**RC6-256-CTR encryption tool.**.  
+**RC6-256-CTR encryption tool.**
 
 
 
