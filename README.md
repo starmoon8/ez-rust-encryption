@@ -23,7 +23,7 @@ interface.
 
 
 
-# Algorithms
+
 
 
 # Algorithms
@@ -106,9 +106,11 @@ Basic XOR cipher (many stronger variants exist, such as rolling XOR or XOR + rot
 Extended-nonce version of Salsa20 using a 192-bit nonce for safer random nonce usage.
 
 
-### [rc6](rc6)
-**RC6-256-CTR encryption tool.**
 
+### rc6
+
+**RC6-256-CTR block cipher**.
+AES finalist (same competition as Serpent and Twofish) with excellent security margins and no practical attacks after 20+ years.
 
 
 
