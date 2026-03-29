@@ -152,5 +152,5 @@ Every tool created under this system should share the same command behavior, fil
 This design allows many small encryption tools to exist that all behave identically from the user's perspective while using different cryptographic algorithms internally.
 
 
-
+Rust Version 1.94.1 + and 2024 edition +
 
