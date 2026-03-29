@@ -53,12 +53,5 @@ This tool is designed for **informal / convenience encryption** only. It uses a 
 Made with the same rock-solid pattern as every other app in the collection.
 
 
-**Just drop this into `rc6/README.md`**:
-
-
-cd rc6
-cat > README.md << 'EOF'
-[paste the entire block above]
-EOF
 
 
