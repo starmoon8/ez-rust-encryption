@@ -50,10 +50,6 @@ This tool is designed for **informal / convenience encryption** only. It uses a 
 
 
 
-Made with the same rock-solid pattern as every other app in the collection.
-
-
-Just run this in your `salsa/` folder and you’re done:
 
 
 cat > README.md << 'EOF'
